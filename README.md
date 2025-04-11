@@ -1,6 +1,5 @@
-<div align="center">
-# Conversational RAG: PDF Q&A ChatBot
-</div>
+<h1 align="center"><strong>Conversational RAG: PDF Q&A ChatBot</strong></h1>
+
 This application is a conversational PDF Q&A bot that uses Retrieval-Augmented Generation (RAG) with the GROQ API and LangChain to answer questions about uploaded PDF documents. The bot leverages vector embeddings to provide accurate and contextually relevant answers to user queries.
 
 ## Features
@@ -44,7 +43,7 @@ This application is a conversational PDF Q&A bot that uses Retrieval-Augmented G
 
 1. Start the application:
    ```
-   streamlit run RAG_bot_with_GROQAPI.py
+   streamlit run RAG_PDFbot_with_GROQAPI.py
    ```
 
 2. The application will open in your default web browser.

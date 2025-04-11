@@ -33,13 +33,6 @@ Built with cutting-edge RAG architecture powered by GROQ's accelerated AI platfo
 
 ## 🛠 Technology Stack
 
-<div align="center">
-
-![Stack Diagram](https://via.placeholder.com/800x200.png?text=Technology+Stack+Diagram)  
-*Architecture Overview*
-
-</div>
-
 | Component              | Technology                          |
 |------------------------|-------------------------------------|
 | **Large Language Model** | ![GROQ](https://img.shields.io/badge/GROQ-Llama3--8b-01B4A4?logo=groq) |

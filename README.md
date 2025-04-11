@@ -1,6 +1,3 @@
-![GitHub License](https://img.shields.io/github/license/yourusername/RAG-bot-with-GROQAPI?style=flat-square)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square&logo=python)
-![GROQ Powered](https://img.shields.io/badge/GROQ-API-01B4A4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMEM1LjM3MyAwIDAgNS4zNzMgMCAxMnM1LjM3MyAxMiAxMiAxMiAxMi01LjM3MyAxMi0xMlMxOC42MjcgMCAxMiAwem0wIDIyLjI5M2MtNS42MjYgMC0xMC4yOTMtNC42NjctMTAuMjkzLTEwLjI5M1M2LjM3NCAxLjcgMTIgMS43czEwLjI5MyA0LjY2NyAxMC4yOTMgMTAuMjkzLTQuNjY3IDEwLjI5My0xMC4yOTMgMTAuMjkzem0yLjM1LTguNTY2bC0yLjI5IDIuMjg4aC0uMDAybC0yLjI5LTIuMjg4LTQuMTQzIDQuMTQzIDIuODU4IDIuODU4IDIuMjktMi4yODkgMi4yOSAyLjI4OSAyLjg1OC0yLjg1OHptLTQuNTgtMi44NTlsMi4yOS0yLjI4OCA0LjE0My00LjE0My0yLjg1OC0yLjg1OC0yLjI5IDIuMjg5LTIuMjktMi4yODktMi44NTggMi44NTh6Ii8+PC9zdmc+)
 
 # 📚🤖 Conversational RAG: PDF Q&A ChatBot
 
@@ -16,11 +13,7 @@ Built with cutting-edge RAG architecture powered by GROQ's accelerated AI platfo
 
 ## 🚀 Features
 
-<div align="center">
-
 ✨ **Core Capabilities** ✨
-
-</div>
 
 |   |   |
 |---|---|
